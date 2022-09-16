@@ -268,8 +268,8 @@ GameObject:
   - component: {fileID: 696937760}
   - component: {fileID: 696937759}
   - component: {fileID: 696937758}
-  - component: {fileID: 696937757}
   - component: {fileID: 696937762}
+  - component: {fileID: 696937757}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -384,7 +384,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b0a31ed1834d36d4896eece581b2a678, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerRigidbody: {fileID: 696937757}
   speed: 8
 --- !u!1 &705507993
 GameObject:
