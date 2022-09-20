@@ -21,6 +21,7 @@ public class Bullet : MonoBehaviour {
         //리지드바디 속도 = 앞쪽 방향 * 이동 속력
         bulletRigidbody.velocity = transform.forward * speed;
 
+        //3초 뒤에 충돌시 파괴
         Destroy(gameObject, 3f);
     }
 
