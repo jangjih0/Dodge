@@ -352,7 +352,6 @@
 "Assets/02.Scripts/Bullet.cs"
 "Assets/02.Scripts/BulletSpawner.cs"
 "Assets/02.Scripts/GameManager.cs"
-"Assets/02.Scripts/NewSceneTemplatePipeline.cs"
 "Assets/02.Scripts/PlayerController.cs"
 "Assets/02.Scripts/PlayerScript.cs"
 "Assets/02.Scripts/Rotator.cs"
